@@ -7,3 +7,9 @@ build.php
 config.codekit
 /wa-system/webasyst/lib/updates/dev
 .idea
+
+# is takenm from shop repository
+wa-apps/shop
+
+# installed from different source
+wa-apps/logs
